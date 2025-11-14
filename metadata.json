@@ -1,5 +1,0 @@
-{
-  "name": "IBM Cloud Uploader (Mock Dashboard)",
-  "description": "A mock dashboard application that simulates uploading files to an IBM Cloud Object Storage–style bucket. All behavior is simulated in the browser using local state and timeouts, without any real API calls.",
-  "requestFramePermissions": []
-}
