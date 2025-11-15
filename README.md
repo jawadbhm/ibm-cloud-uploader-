@@ -21,7 +21,7 @@ A React + TypeScript mock dashboard that simulates uploading files to IBM Cloud 
    npm install  
 2. Start development server:  
    npm run dev  
-3. Open the URL shown in the terminal (usually http://localhost:5173)  
+3. Open the URL shown in the terminal (http://localhost:3000)  
 4. Build & preview:  
    npm run build  
    npm run preview  
